@@ -1,12 +1,8 @@
-<div align="center"> 
-# Hi 👋, I'm Namira Fathani
-</div>
+<h1 align="center"><b>Hi 👋, I'm Namira Fathani</b></h1>
 
 ### 🌟 Control Systems Engineer | Robotics Educator | Founder of Robotic Institute 🌟
 
-I hold a Master's degree in Electrical Engineering, specializing in **Control Systems**, from [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), Indonesia.
-
-My interests lie at the intersection of control engineering, robotics, automation, and technology education. I enjoy exploring how intelligent systems work and applying engineering concepts to real-world applications.
+I hold a Master's degree in Electrical Engineering, specializing in **Control Systems**, from [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), Indonesia. My interests lie at the intersection of control engineering, robotics, automation, and technology education. I enjoy exploring how intelligent systems work and applying engineering concepts to real-world applications.
 
 Beyond engineering and research, I am passionate about education, particularly in introducing science and technology to younger generations.
 
