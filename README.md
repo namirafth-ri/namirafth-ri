@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Namira Fathani</b></h1>
 
-### 🌟 Control Systems Engineer | Robotics Educator | Founder of Robotic Institute 🌟
+### 
+<h3 align="center"><b>🌟 Control Systems Engineer | Robotics Educator | Founder of Robotic Institute 🌟</b></h3>
 
 I hold a Master's degree in Electrical Engineering, specializing in **Control Systems**, from [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/), Indonesia. My interests lie at the intersection of control engineering, robotics, automation, and technology education. I enjoy exploring how intelligent systems work and applying engineering concepts to real-world applications.
 
@@ -16,6 +17,7 @@ Our educational programs introduce students from elementary school to university
 ### 📫 Connect With Me
 - Email: namira.fth@gmail.com
 - Email: hani.nf91@gmail.com
+- Instagram: [Instagram - Robotic Institute](https://www.instagram.com/robotic_institute.id/)
 
 <!--
 **namirafth-ri/namirafth-ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
