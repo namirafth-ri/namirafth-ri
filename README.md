@@ -1,4 +1,6 @@
+<div align="center"> 
 # Hi 👋, I'm Namira Fathani
+</div>
 
 ### 🌟 Control Systems Engineer | Robotics Educator | Founder of Robotic Institute 🌟
 
@@ -9,30 +11,6 @@ My interests lie at the intersection of control engineering, robotics, automatio
 Beyond engineering and research, I am passionate about education, particularly in introducing science and technology to younger generations.
 
 I am the founder of **Robotic Institute**, an educational initiative dedicated to developing future engineers through hands-on learning experiences in electronics, programming, and robotics. We provide technology education for students ranging from elementary school to university level. We have the slogan that **Shaping Young Minds into Engineer**
-
-### 🔬 Research Interests
-- Control Systems and Automation
-- Model Predictive Control (MPC)
-- Autonomous Robotics and UAV Systems
-- Robotics and Mechatronics
-- Embedded Systems
-- Intelligent Systems
-
-### 👩‍🏫 Teaching & Educational Interests
-- Electronics and Electrical Engineering
-- Programming and Computational Thinking
-- Robotics and Mechatronics
-- STEM Education
-- Project-Based Learning (PjBL)
-- Engineering for Young Learners
-
-### 💻 Technical Skills & Tools
-- **Programming:** C++, Python, Scratch
-- **Control & Simulation:** MATLAB, Simulink, Simulink Control Design, LabView
-- **Robotics:** ROS, ROS2, PX4
-- **Electronics:** Arduino, ESP32, Proteus
-- **Automation:** PLC, HMI, SCADA, Temperature Controller
-- **CAD & Design:** AutoCAD, KiCad
 
 ### 🚀 Organization
 **Founder – Robotic Institute**
@@ -58,4 +36,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 //- LinkedIn: Your LinkedIn Profile//
 - GitHub: https://github.com/namirafth-ri
+### 🔬 Research Interests
+- Control Systems and Automation
+- Model Predictive Control (MPC)
+- Autonomous Robotics and UAV Systems
+- Robotics and Mechatronics
+- Embedded Systems
+- Intelligent Systems
+
+### 👩‍🏫 Teaching & Educational Interests
+- Electronics and Electrical Engineering
+- Programming and Computational Thinking
+- Robotics and Mechatronics
+- STEM Education
+- Project-Based Learning (PjBL)
+- Engineering for Young Learners
+
+### 💻 Technical Skills & Tools
+- **Programming:** C++, Python, Scratch
+- **Control & Simulation:** MATLAB, Simulink, Simulink Control Design, LabView
+- **Robotics:** ROS, ROS2, PX4
+- **Electronics:** Arduino, ESP32, Proteus
+- **Automation:** PLC, HMI, SCADA, Temperature Controller
+- **CAD & Design:** AutoCAD, KiCad
 -->
