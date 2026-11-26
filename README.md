@@ -8,10 +8,9 @@ My interests lie at the intersection of control engineering, robotics, automatio
 
 Beyond engineering and research, I am passionate about education, particularly in introducing science and technology to younger generations.
 
-I am the founder of **Robotic Institute**, an educational initiative dedicated to developing future engineers through hands-on learning experiences in electronics, programming, and robotics. We provide technology education for students ranging from elementary school to university level.
+I am the founder of **Robotic Institute**, an educational initiative dedicated to developing future engineers through hands-on learning experiences in electronics, programming, and robotics. We provide technology education for students ranging from elementary school to university level. We have the slogan that **Shaping Young Minds into Engineer**
 
 ### 🔬 Research Interests
-
 - Control Systems and Automation
 - Model Predictive Control (MPC)
 - Autonomous Robotics and UAV Systems
@@ -20,7 +19,6 @@ I am the founder of **Robotic Institute**, an educational initiative dedicated t
 - Intelligent Systems
 
 ### 👩‍🏫 Teaching & Educational Interests
-
 - Electronics and Electrical Engineering
 - Programming and Computational Thinking
 - Robotics and Mechatronics
@@ -29,26 +27,19 @@ I am the founder of **Robotic Institute**, an educational initiative dedicated t
 - Engineering for Young Learners
 
 ### 💻 Technical Skills & Tools
-
 - **Programming:** C++, Python, Scratch
 - **Control & Simulation:** MATLAB, Simulink, Simulink Control Design, LabView
 - **Robotics:** ROS, ROS2, PX4
 - **Electronics:** Arduino, ESP32, Proteus
-- **Automation:** PLC, HMI, SCADA
+- **Automation:** PLC, HMI, SCADA, Temperature Controller
 - **CAD & Design:** AutoCAD, KiCad
 
 ### 🚀 Organization
-
 **Founder – Robotic Institute**
-
 Building future engineers through electronics, programming, and robotics education.
-
 Our educational programs introduce students from elementary school to university to engineering concepts through practical projects, creative exploration, and problem-solving.
 
 ### 📫 Connect With Me
-
-- GitHub: https://github.com/namirafth-ri
-//- LinkedIn: Your LinkedIn Profile//
 - Email: namira.fth@gmail.com
 - Email: hani.nf91@gmail.com
 
@@ -65,4 +56,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+//- LinkedIn: Your LinkedIn Profile//
+- GitHub: https://github.com/namirafth-ri
 -->
